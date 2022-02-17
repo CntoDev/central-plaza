@@ -12,7 +12,6 @@ Here you will find the list of active repositories managed by this organization 
 
 | Repository | Maintainer(s) | Description |
 | --- | --- | --- |
-| [rooster](https://github.com/CntoDev/rooster) | [R&D](https://github.com/orgs/CntoDev/teams/rnd) ([Highway](https://github.com/milivojm), [Henrik](https://github.com/enrico-ghidoni)) | Community Roster and related automation services for managing members |
 | [luncher](https://github.com/CntoDev/luncher) | [R&D](https://github.com/orgs/CntoDev/teams/rnd) ([Highway](https://github.com/milivojm)) | Arma3 Server custom launcher |
 | [compositions](https://github.com/CntoDev/compositions) | [MMT](https://github.com/orgs/CntoDev/teams/mmt) | Various Eden editor compositions (factions, etc) |
 | [cnto-additions](https://github.com/CntoDev/cnto-additions) | [R&D](https://github.com/orgs/CntoDev/teams/rnd) ([Seb](https://github.com/Seb105)) | Miscellaneous Arma3 tweaks |
